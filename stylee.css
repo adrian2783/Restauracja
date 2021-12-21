@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+body{
+    
+    margin:0;
+}
+
+*{
+    margin:0;
+    
+}
+a {
+    text-decoration: none;
+    color:white;
+    
+}
+.login{
+    padding:10px;
+    border-radius:10px;
+}
+.pass{
+    border-radius:10px;
+}
+.przycisk2{
+    background: black;
+    opacity:0.9;
+    color:white;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:10px;
+    
+}
+.zalogujsie
+
+
+a:hover{
+    cursor: pointer;
+    transition: 1s;
+    color:yellow;
+    text-shadow: yellow;
+}
+.menu{
+    float:right;
+    padding:15px;
+    color:white;
+    background: #000;
+    opacity: 0.9;
+    z-index: 100;
+    font-family: 'Delius', cursive;   
+}
+.napis{
+    color:white;
+    font-family: 'Delius', cursive;
+    font-weight: 500;
+}
+.witamy2{
+    font-size:45px;
+}
+.special{
+    font-size:40px;   
+}
+
+.main{
+    margin-top:170px;
+    color:white;   
+}
+
+.lorem{
+   font-size:30px; 
+   text-align: justify;
+}
+.lorem1{
+    font-size:25px;
+    text-align: justify;
+}
+.content{
+    height:500px;
+    position:absolute;
+    margin-top:50px;
+}
+.content1{
+    color:white;
+    height:500px;
+    margin-top:50px;
+}
+.logo{
+    float:left;
+    padding:3px;
+}
+
+
+.option{
+    padding:15px;
+    text-decoration:none;
+    color:white;
+}
+.option:hover{
+    cursor: pointer;
+    transition: 1s;
+    color:yellow;
+    text-shadow: yellow;
+}
+
+span{
+    letter-spacing: 2px;
+    color:yellow;
+    font-size:20px;
+}
+.loggo{
+    font-size:14px;
+    margin-bottom:5px;
+    color:white;
+}
+.border{
+    border-bottom:3px solid #c9b47b;
+    margin-bottom:20px;
+}
+.baner{
+    opacity:0.9;
+    width:100%;
+}
+
+.przycisk{
+    border-radius:30px;
+    padding-left:5px;
+    padding-right:5px;
+    background-color: black;
+    color:white;
+    opacity:0.95;
+    border:none;
+    letter-spacing: 1px;
+    
+    
+    
+}
+.przycisk1:hover{
+    background:rgb(48, 37, 16);
+    transition:1s;
+    text-shadow: white;
+}
+.przycisk2:hover{
+    background:rgb(48, 37, 16);
+    transition:1s;
+    text-shadow: white;
+}
+
+.restauracja{
+    padding-top:20px;
+    font-size:40px;
+}
+.about{
+    font-size:50px;
+}
+.about1{
+    font-size:45px;
+}
+
+.footer{
+    
+    background-color: black;
+    height:300px;
+    opacity: 0.9;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.kontakt{
+    
+    font-size:15px;
+    padding-top:30px;
+}
+.godzotwarcia{
+    
+    font-size:15px;
+    padding-top:30px;
+}
+.menu1{
+    padding:20px;
+    
+}
+.copy{
+    padding:15px;
+    background-color: black;
+    opacity:0.9;
+    color:white;
+    position:sticky;
+
+}
+h3{
+    font-family: 'Delius', cursive;
+}
+
+.naszemenu{
+    font-size:36px;
+}
+.menudania{
+    font-family: 'Delius', cursive;
+    background: #fffef5;
+}
+.log{
+    border:1px solid gray;
+}
